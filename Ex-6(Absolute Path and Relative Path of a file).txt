@@ -1,0 +1,8 @@
+Absolute path
+
+ls /home/mysystem/Desktop/newDir 
+
+Relative Path
+
+pwd /home/mysystem/Desktop/newDir
+ls ../

@@ -1,0 +1,25 @@
+Open the file in Read Mode
+
+view myFile.txt
+
+Count words in a file 
+
+For counting the number of words, press g, then Ctrl+g
+
+View First 10 lines
+
+head -10 myFile.txt  
+
+Display the file
+
+vi myFile.txt 
+
+Search a word in a file
+
+vi myFile.txt (or) vim myFile.txt
+
+After that Press Esc Key
+
+Type the word to be searches Ex : /hai
+
+Hit 'n' to search forward or Hit 'N' to search backward

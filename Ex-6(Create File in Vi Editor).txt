@@ -1,0 +1,4 @@
+mkdir newDir // to create a new directory
+cd newDir //to move to the new Directory
+vi newfile //to create a new File
+ls //to view all the files
